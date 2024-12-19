@@ -1,0 +1,1 @@
+Breast Cancer Detection Project aims to develop a machine learning model for identifying signs of breast cancer from medical imaging data.
